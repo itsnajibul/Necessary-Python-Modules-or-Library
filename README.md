@@ -45,7 +45,7 @@ pip install scikit-learn
 pip install inflect
 ```
 
-**7. requests :** *For interecting with web services, APIs and websites*
+**7. requests :** *For interacting with web services, APIs and websites*
 ```bash
 pip install requests
 ```
@@ -65,7 +65,7 @@ pip install pytest
 pip install pyfiglet
 ```
 
-**11. tabulate :** *Generate fomatted table in plain text*
+**11. tabulate :** *Generate formatted table in plain text*
 ```bash
 pip install tabulate
 ```
@@ -75,7 +75,7 @@ pip install tabulate
 pip install validator-collection
 ```
 
-**13. Pillow :** *Python Imagine Library (PIL) fork that adds image processing capabilities to Python.*
+**13. Pillow :** *Python Imaging Library (PIL) fork that adds image processing capabilities to Python.*
 ```bash
 pip install pillow
 ```
@@ -85,7 +85,7 @@ pip install pillow
 pip install fpdf2
 ```
 
-**15. cowsay :** *It generates ASCII art of cow (default) and differrnt animal shape and cartoon style*
+**15. cowsay :** *It generates ASCII art of cow (default) and different animal shape and cartoon style*
 ```bash
 pip install cowsay
 ```
@@ -95,5 +95,6 @@ pip install cowsay
 pip install jupyter
 ```
 * <b> Set Environment-Path for Jupyter :</b>  
->>> After installing Jupyter, it is important to set the path in environment variables. For that copy the path of python installation **(username -> Appdata -> Roaming -> Python -> Python.(version.io 3.12.4) -> Scipts)** and copy the path. Then go to **Edit the system environment variables** the click **Environment Variables** and in the **Path** section under **User Variabels** set **New** path you copied.
+>>> After installing Jupyter, it is important to set the path in environment variables. For that copy the path of python installation **(username -> Appdata -> Roaming -> Python -> Python.(version.io 3.12.4) -> Scripts)** and copy the path. Then go to **Edit the system environment variables** the click **Environment Variables** and in the **Path** section under **User Variables** set **New** path you copied.
     
+
