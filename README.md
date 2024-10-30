@@ -95,6 +95,6 @@ pip install cowsay
 pip install jupyter
 ```
 * <b> Set Environment-Path for Jupyter :</b>  
->>> After installing Jupyter, it is important to set the path in environment variables. For that copy the path of python installation **(username -> Appdata -> Roaming -> Python -> Python.(version.io 3.12.4) -> Scripts)** and copy the path. Then go to **Edit the system environment variables** the click **Environment Variables** and in the **Path** section under **User Variables** set **New** path you copied.
+>>> After installing Jupyter, it is important to set the path in environment variables. For that copy the path of python installation **(C:\Program Files\Python(version)\Scripts)** and copy the path. Then go to **Edit the system environment variables** the click **Environment Variables** and in the **Path** section under **User Variables** set **New** path you copied.
     
 
